@@ -1,0 +1,45 @@
+
+.panda-background{
+    background-color: #fceae8;
+    border-radius: 1em;
+}
+.panda-button{
+    color: white;
+    background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+    
+}
+
+.panda-catagory img{
+    height: 90px;
+}
+.panda-background h2{
+    color: deeppink;
+}
+#cat-watch{
+    background-color:orange;
+    border-radius: 1em;
+    
+}
+#cat-bag{
+    background-color:orchid;
+    border-radius: 1em;
+}
+#cat-shoes{
+    background-color:blue;
+    border-radius: 1em;
+}
+.panda-card{
+    border: 0;
+    border-radius: 1em;
+}
+.panda-card-footer{
+    border: 0;
+    background-color: white;
+    
+    
+}
+
+
+#subscribe{
+    height: 300px;
+}
